@@ -28,3 +28,8 @@ package-lock.json
 # Ignore all local history of files
 .history
 .ionide
+
+ .idea/modules.xml
+ .idea/*.iml
+ .idea/modules
+ *.iml
