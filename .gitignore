@@ -29,6 +29,7 @@ package-lock.json
 .history
 .ionide
 
+.idea/*
 .idea/modules.xml
 .idea/*.xml
 .idea/*.iml
